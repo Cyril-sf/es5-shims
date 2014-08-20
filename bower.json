@@ -1,0 +1,20 @@
+{
+  "name": "ie8-shims.js",
+  "version": "0.1.0",
+  "main": [
+    "dist/ie8-shims.js"
+  ],
+  "authors": [
+    "LessMad LLC"
+  ],
+  "description": "Compatibility shims for Internet Explorer 8",
+  "keywords": [
+    "es5",
+    "shims"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
